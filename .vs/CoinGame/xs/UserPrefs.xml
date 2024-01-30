@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6AE7119E-44D2-D691-E857-A8992B71CC4F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CoinCreator.cs">
+    <Files>
+      <File FileName="Assets/CoinObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/CoinCreator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoinGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CoinObject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="edc1f574-a0bf-46d0-a7fd-285bbe1f2dbc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
